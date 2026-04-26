@@ -1,0 +1,1 @@
+import{i as e,n as t,t as n}from"./jsx-runtime-DJ5iek06.js";var r=e(t(),1),i=n(),a=`/images/placeholder-recipe.svg`;function o({src:e,alt:t,fallbackSrc:n=a,...o}){let[s,c]=(0,r.useState)(!1);return(0,r.useEffect)(()=>{c(!1)},[e]),(0,i.jsx)(`img`,{...o,src:s||!e?n:e,alt:t,onError:()=>c(!0)})}export{o as t};

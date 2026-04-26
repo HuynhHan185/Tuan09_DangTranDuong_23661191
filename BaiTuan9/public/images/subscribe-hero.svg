@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-label="Cheffify subscription">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9dce9"/>
+      <stop offset="1" stop-color="#e6ebf9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#a)"/>
+  <rect x="140" y="120" width="1120" height="660" rx="36" fill="#ffffff" opacity="0.92"/>
+  <rect x="230" y="220" width="940" height="180" rx="24" fill="#fff1f7"/>
+  <text x="280" y="320" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="700" fill="#ef4b93">Cheffify Premium</text>
+  <text x="280" y="368" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#7c5d70">Unlock all recipes, smart filters and exclusive collections</text>
+  <rect x="230" y="460" width="360" height="180" rx="20" fill="#ef4b93"/>
+  <text x="270" y="565" font-family="Georgia, Times New Roman, serif" font-size="60" fill="#ffffff">$0.25/week</text>
+  <rect x="640" y="460" width="530" height="180" rx="20" fill="#fdf3f8" stroke="#ef9fc4" stroke-width="3"/>
+  <text x="680" y="530" font-family="Segoe UI, Arial, sans-serif" font-size="32" fill="#6f5364">Includes:</text>
+  <text x="680" y="575" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#6f5364">- 20,000+ recipes</text>
+  <text x="680" y="615" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#6f5364">- Diet and cook-time filters</text>
+</svg>

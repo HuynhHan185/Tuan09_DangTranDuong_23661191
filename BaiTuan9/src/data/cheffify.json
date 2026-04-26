@@ -1,0 +1,128 @@
+{
+  "brand": "Cheffify",
+  "navItems": ["What to cook", "Recipes", "Ingredients", "Occasions", "About Us"],
+  "searchPlaceholder": "What would you like to cook?",
+  "onboardingSlides": [
+    {
+      "title": "Discover Cheffify",
+      "description": "Easy and delicious cooking instructions right here. Start exploring now!",
+      "image": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=1400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cook Like A Pro",
+      "description": "Learn step-by-step with visual guides and practical tips.",
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=1400&auto=format&fit=crop"
+    },
+    {
+      "title": "Save And Share",
+      "description": "Build your recipe box and share with your friends.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1400&auto=format&fit=crop"
+    }
+  ],
+  "hero": {
+    "title": "Salad Caprese",
+    "subtitle": "Recipe of the day",
+    "description": "Classic Italian Salad Caprese: ripe tomatoes, fresh mozzarella, herbs, olive oil, and balsamic vinegar create a refreshing dish for lunch or appetizer.",
+    "author": "Salad Caprese",
+    "backgroundImage": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?q=80&w=1600&auto=format&fit=crop"
+  },
+  "initialFavorites": ["r2", "r3", "r6", "r8"],
+  "catalog": [
+    {"id": "r1", "name": "Cucumber salad, cherry tomatoes", "minutes": 32, "type": "Grilled", "rating": 4, "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=900&auto=format&fit=crop"},
+    {"id": "r2", "name": "Italian-style tomato salad", "minutes": 32, "type": "Roasted", "rating": 5, "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=900&auto=format&fit=crop"},
+    {"id": "r3", "name": "Potato salad", "minutes": 32, "type": "Roasted", "rating": 3, "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?q=80&w=900&auto=format&fit=crop"},
+    {"id": "r4", "name": "Salad with cabbage and shrimp", "minutes": 32, "type": "Grilled", "rating": 4, "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?q=80&w=900&auto=format&fit=crop"},
+    {"id": "r5", "name": "Five-color salad", "minutes": 32, "type": "Steamed", "rating": 2, "image": "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?q=80&w=900&auto=format&fit=crop"},
+    {"id": "r6", "name": "Corn Salad", "minutes": 32, "type": "Baked", "rating": 3, "image": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?q=80&w=900&auto=format&fit=crop"},
+    {"id": "r7", "name": "Avocado Salad", "minutes": 32, "type": "Stewed", "rating": 5, "image": "https://images.unsplash.com/photo-1529059997568-3d847b1154f0?q=80&w=900&auto=format&fit=crop"},
+    {"id": "r8", "name": "Lotus delight salad", "minutes": 20, "type": "Grilled", "rating": 3, "image": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=900&auto=format&fit=crop"},
+    {"id": "r9", "name": "Snack cakes", "minutes": 21, "type": "Pan-fried", "rating": 2, "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?q=80&w=900&auto=format&fit=crop"},
+    {"id": "r10", "name": "Spaghetti with vegetables and shrimp", "minutes": 15, "type": "Stir-fried", "rating": 4, "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=900&auto=format&fit=crop"}
+  ],
+  "summerRecipeIds": ["r2", "r10", "r8", "r9"],
+  "videoRecipeIds": ["r4", "r10", "r1", "r8"],
+  "editorsPick": [
+    {
+      "id": "e1",
+      "name": "Stuffed sticky rice ball",
+      "minutes": 34,
+      "chef": "Jennifer King",
+      "description": "A delightful Asian treat with chewy, glutinous rice and a flavorful surprise filling.",
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=900&auto=format&fit=crop"
+    },
+    {
+      "id": "e2",
+      "name": "Strawberry smoothie",
+      "minutes": 40,
+      "chef": "Matthew Martinez",
+      "description": "Savor the refreshing delight of a strawberry smoothie made with ripe strawberries.",
+      "image": "https://images.unsplash.com/photo-1505252585461-04db1eb84625?q=80&w=900&auto=format&fit=crop"
+    },
+    {
+      "id": "e3",
+      "name": "Latte Art",
+      "minutes": 19,
+      "chef": "Sarah Hill",
+      "description": "The skillful craft of creating captivating designs on the surface of a latte.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=900&auto=format&fit=crop"
+    },
+    {
+      "id": "e4",
+      "name": "Butter fried noodles",
+      "minutes": 16,
+      "chef": "Julia Lopez",
+      "description": "Savory noodles cooked in butter for a delicious and satisfying meal.",
+      "image": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?q=80&w=900&auto=format&fit=crop"
+    }
+  ],
+  "recipeBoxOwner": {
+    "name": "Emma Gonzalez",
+    "title": "Emma Gonzalez's Recipe Box",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=200&auto=format&fit=crop",
+    "subscribers": "6.5k Subscribes",
+    "description": "Emma Gonzalez is a deputy editor at Cheffify, bringing her expertise as a former cooking editor at The Los Angeles Times."
+  },
+  "subscriptionBenefits": [
+    "20,000+ recipes to suit all tastes and skill levels",
+    "Filter for diets, cook times, and more",
+    "Personal Recipe Box for favorites",
+    "Gain exclusive access to subscriber-only mobile app"
+  ],
+  "subscriptionHeroImage": "/images/subscribe-hero.svg",
+  "ingredients": [
+    "Yield: 4 generous servings",
+    "2 pints ripe, well-rinsed strawberries",
+    "1/2 cup sugar, or more to taste",
+    "4 cups flour",
+    "3 tablespoons sugar",
+    "1/4 teaspoon salt",
+    "5 teaspoons baking powder",
+    "1/4 cups butter",
+    "3 cups whipping cream",
+    "1/2 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "title": "Step 1",
+      "text": "Mix dry ingredients and prepare berries with sugar.",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "title": "Step 2",
+      "text": "Preheat oven to 450 degrees and chill the dough.",
+      "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "title": "Step 3",
+      "text": "Cut cold butter into flour and combine gently.",
+      "image": "https://images.unsplash.com/photo-1518635017498-87f514b751ba?q=80&w=1000&auto=format&fit=crop"
+    }
+  ],
+  "comments": [
+    {"id": "c1", "name": "Jimmy Will", "time": "15:46 AM", "text": "I am concerned if learning this article because there are many bad comments in this food website course line.", "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=80&auto=format&fit=crop"},
+    {"id": "c2", "name": "Alice Gill", "time": "12:10 AM", "text": "Quick issue and smell doesn't transfer right but perhaps recipe and this article are similar and useful.", "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=80&auto=format&fit=crop"},
+    {"id": "c3", "name": "Chris Hatton", "time": "13:42 AM", "text": "Learn more with this section and images. Great references for plating.", "avatar": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?q=80&w=80&auto=format&fit=crop"}
+  ],
+  "recentlyViewedIds": ["r4", "r10", "r1", "r8"],
+  "emptySearchTags": ["Sweet Cake", "Black Cake", "Pozole Verde", "Healthy food"]
+}
